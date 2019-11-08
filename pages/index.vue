@@ -1,6 +1,6 @@
 <template>
 <div>
-  <h1>Hello !! world </h1>
+  <h1>馬鹿 !! world </h1>
 
   <NLink to ="/about" >About Page </NLink>
   <br>
